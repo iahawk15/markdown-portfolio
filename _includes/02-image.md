@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Old metal electric fan](https://www.floridamassage.com/wp-content/uploads/product-fan-1024-1024.jpg)
